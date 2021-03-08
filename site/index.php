@@ -9,7 +9,7 @@ $url="http://heures.renaudguezennec.eu/";
 $root="/";
 $body="";
 $home="Accueil";
-$github="https://github.com/obiwankennedy/";
+$github="https://github.com/obiwankennedy/french_talking_clock_game";
 $currentLang=array();
 $template="include/template/template.html";
 $menu_array=array("Home"=>"/");
