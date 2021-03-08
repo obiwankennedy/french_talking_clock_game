@@ -1,0 +1,7 @@
+# Activation du module de réécriture d'URL :
+RewriteEngine on
+
+
+RewriteRule ^/?(.*\.html?|[^\.]+)[:;,\.]*$ index.php?path=$1 [L,NS]
+# RewriteLog "/var/log/apache2/rewrite.log"
+# RewriteLogLevel 3

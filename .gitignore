@@ -1,0 +1,4 @@
+data/voice/*
+*.wav
+*.ogg
+

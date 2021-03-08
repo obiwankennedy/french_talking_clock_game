@@ -1,0 +1,33 @@
+.centred {
+  margin: auto auto;
+  width: 300px
+}
+
+
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+label {
+  width: 150px;
+}
+
+input {
+  width: 40px;
+  padding: 5px;
+  margin:10px 0;
+}
+#voice_select {
+  width: 110px;
+  
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    font-size: 0.7em;
+    margin: 20px auto;
+    width: 500px;
+}
+
